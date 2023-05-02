@@ -1,0 +1,1 @@
+date = lambda T: "{} {} {} - {}:{}:{}".format(T.month, T.day, T.year, T.hour, T.minute, T.second)
